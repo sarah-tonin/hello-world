@@ -1,4 +1,7 @@
 # hello-world
-guys, this is my very first "repo"
-bloop bloop, this is the edit that i am making.
-it is crutial to the psychological well being of humanity.
+
+guys, this is my _very first_ "repo"
+
+`bloop bloop`, this is the edit that i am making.
+
+it is crucial to the psychological well being of humanity.
